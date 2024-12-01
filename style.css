@@ -1,0 +1,61 @@
+
+body{
+    background-color: rgb(2, 100, 68) !important;
+}
+.heading{
+    margin: 50px 0px;
+    color: rgb(160, 160, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.select{
+    height: 35px;
+    width: 170px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background-color: greenyellow;
+}
+.button{
+    height: 35px;
+    width: 170px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgb(149, 77, 216);
+}
+.card{
+    width: 300px !important;
+    border: 2px solid black !important;
+    margin: 0px auto !important;
+    margin-bottom:20px !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.9) 0px -12px 30px, rgba(0, 0, 0, 0.2) 0px 4px 6px, rgba(0, 0, 0, 0.7) 0px 12px 13px, rgba(0, 0, 0, 0.9) 0px -3px 5px;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+b{
+    /* color: rgb(2, 92, 165); */
+    color: black;
+}
+.values{
+    color: rgb(0, 78, 102);
+    font-weight: bold;
+}
+.card-md{
+    margin: 0px auto;
+    margin-top: 70px;
+    background-color: white;
+    margin-bottom:50px !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.9) 0px -12px 30px, rgba(0, 0, 0, 0.2) 0px 4px 6px, rgba(0, 0, 0, 0.7) 0px 12px 13px, rgba(0, 0, 0, 0.9) 0px -3px 5px;
+}
+.div-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign-btn{
+    padding: 8px 25px;
+    background-color: rgb(2, 100, 68);
+    border: 1px solid white;
+    border-radius: 5px;
+}
